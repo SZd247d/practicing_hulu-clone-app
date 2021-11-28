@@ -19,7 +19,7 @@ function Nav() {
           </h2>
         ))}
       </div>
-      <div className="absolute top-0 right-0 bg-gradient-to-l from-yellow-400 h-10 w-1/12"></div>
+      <div className="absolute top-0 right-0 bg-gradient-to-l from-white h-10 w-1/12"></div>
     </nav>
   );
 }
